@@ -314,8 +314,7 @@ Example result:
 ```
 Predicted Class: person
 ```
- ![Training Result](Screenshot 2026-03-13 150416.png)
-
+ ![Training Result](image.png)
 
 # Visualization
 
