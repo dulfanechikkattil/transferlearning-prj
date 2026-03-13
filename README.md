@@ -266,6 +266,9 @@ history = model.fit(
 ```
 
 The model is trained for **5 epochs** using both training and validation datasets.
+
+[Training Result](image.png)
+ 
 ---
 
 # 10. Evaluate the Model
