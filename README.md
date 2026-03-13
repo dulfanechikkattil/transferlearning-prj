@@ -282,7 +282,7 @@ Final Test Accuracy:
 **99.89%**
 ---
 
- ![Training Result](Screenshot 2026-03-13 150416.png)
+ ![Training Result]()
 
 # 11. Predict Images
 
