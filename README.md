@@ -280,7 +280,7 @@ test_loss, test_acc = model.evaluate(test_dataset)
 Final Test Accuracy:
 
 **99.89%**
-
+![Training Result](image.png)
 ---
 
 # 11. Predict Images
