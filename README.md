@@ -267,7 +267,7 @@ history = model.fit(
 
 The model is trained for **5 epochs** using both training and validation datasets.
 
-![Training Result](image.png)
+![Training Result](img.png)
 
 ---
 
@@ -282,7 +282,7 @@ Final Test Accuracy:
 **99.89%**
 ---
 
- ![Training Result](image.png)
+ ![Training Result](img3.png)
 
 # 11. Predict Images
 
