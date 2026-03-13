@@ -280,8 +280,9 @@ test_loss, test_acc = model.evaluate(test_dataset)
 Final Test Accuracy:
 
 **99.89%**
-![Training Result](Screenshot 2026-03-13 150416.png)
 ---
+
+ ![Training Result](Screenshot 2026-03-13 150416.png)
 
 # 11. Predict Images
 
@@ -313,8 +314,8 @@ Example result:
 ```
 Predicted Class: person
 ```
+ ![Training Result](Screenshot 2026-03-13 150416.png)
 
----
 
 # Visualization
 
